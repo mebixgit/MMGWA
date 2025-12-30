@@ -25,11 +25,10 @@ The website is automatically deployed to GitHub Pages whenever changes are pushe
 .
 ├── index.html          # Main HTML file
 ├── styles.css          # CSS stylesheet
-├── .github/
-│   └── workflows/
-│       └── pages.yml   # GitHub Actions workflow for deployment
 └── README.md          # This file
 ```
+
+**Note:** The GitHub Actions workflow for deployment is already configured on the main branch.
 
 ## 🛠️ Local Development
 
